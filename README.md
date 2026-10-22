@@ -162,6 +162,8 @@ Chaaron ke naam dikhne chahiye.
 Ye error Step 3 aur 5 ke baad chale jayenge. Agar **Service Warnings** me `Missing recommended package: 'gawk, grep, sed, coreutils-sort'` dikhe, to Step 1 dobara karo.
 
 <!-- ![Step 2: Status before setup](screenshots/ab-step-02-status.png) -->
+<img width="1568" height="746" alt="image" src="https://github.com/user-attachments/assets/13afef36-e318-4fac-9c2a-50eacbb24af8" />
+
 
 ---
 
@@ -186,6 +188,8 @@ Hagezi Pro + CERT Polska lagane par is tester ke router par lagbhag **3 lakh (30
 
 <!-- ![Step 3: Lists table](screenshots/ab-step-03-lists.png) -->
 
+<img width="1568" height="629" alt="image" src="https://github.com/user-attachments/assets/305d24c3-7526-4ede-a9e3-61d461ed66e8" />
+
 ---
 
 ## Step 4: Basic settings
@@ -202,6 +206,8 @@ Usi page par upar **Basic Configuration** tab kholo. Ye jaisa hai waisa rakho:
 Neeche **Save & Apply** dabao.
 
 <!-- ![Step 4: Basic configuration](screenshots/ab-step-04-basic.png) -->
+<img width="1138" height="870" alt="image" src="https://github.com/user-attachments/assets/e88f5b03-a2dd-470d-bdcb-2ebabe8f01b2" />
+
 
 ---
 
@@ -228,6 +234,7 @@ adblock-fast 1.2.4-r4 is blocking 309086 domains (with dnsmasq.servers)
 > **Service Control me aur buttons ka matlab:** **Redownload** lists dobara download karta hai. **Pause (1m)** 1 minute ke liye block band karta hai (jab koi site toot rahi ho aur check karna ho). **Stop** band karta hai. **Disable** boot par chalna band karta hai.
 
 <!-- ![Step 5: Service control and status](screenshots/ab-step-05-start.png) -->
+<img width="1117" height="402" alt="image" src="https://github.com/user-attachments/assets/1a7734bc-4ce1-4566-adf1-21e90246e03d" />
 
 ---
 
